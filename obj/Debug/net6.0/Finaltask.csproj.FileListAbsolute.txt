@@ -1,0 +1,15 @@
+D:\CsharpLesson\Final\Finaltask\bin\Debug\net6.0\Finaltask.exe
+D:\CsharpLesson\Final\Finaltask\bin\Debug\net6.0\Finaltask.deps.json
+D:\CsharpLesson\Final\Finaltask\bin\Debug\net6.0\Finaltask.runtimeconfig.json
+D:\CsharpLesson\Final\Finaltask\bin\Debug\net6.0\Finaltask.dll
+D:\CsharpLesson\Final\Finaltask\bin\Debug\net6.0\Finaltask.pdb
+D:\CsharpLesson\Final\Finaltask\obj\Debug\net6.0\Finaltask.csproj.AssemblyReference.cache
+D:\CsharpLesson\Final\Finaltask\obj\Debug\net6.0\Finaltask.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpLesson\Final\Finaltask\obj\Debug\net6.0\Finaltask.AssemblyInfoInputs.cache
+D:\CsharpLesson\Final\Finaltask\obj\Debug\net6.0\Finaltask.AssemblyInfo.cs
+D:\CsharpLesson\Final\Finaltask\obj\Debug\net6.0\Finaltask.csproj.CoreCompileInputs.cache
+D:\CsharpLesson\Final\Finaltask\obj\Debug\net6.0\Finaltask.dll
+D:\CsharpLesson\Final\Finaltask\obj\Debug\net6.0\refint\Finaltask.dll
+D:\CsharpLesson\Final\Finaltask\obj\Debug\net6.0\Finaltask.pdb
+D:\CsharpLesson\Final\Finaltask\obj\Debug\net6.0\Finaltask.genruntimeconfig.cache
+D:\CsharpLesson\Final\Finaltask\obj\Debug\net6.0\ref\Finaltask.dll
